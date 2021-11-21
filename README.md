@@ -6,7 +6,7 @@ I'am Ahmed Hamdy, Talented Software Engineer with 6+ years experience in analysi
 learn new programing languages: `Golang` and `Scala`, also increase my experience on `Docker`, `Kubernetes`, `Distributed programming` and `Microservices`
 
 #### 👯 I’m looking to collaborate:
-I love to collaborate on any open source project or library (using `Javascript`, `Typescript`, `PHP` or `Java` languages)
+I would like to collaborate on any open source project or library Using `Javascript`, `Typescript`, `PHP`, `C#` or `Java` Languages
 
 #### 📫 How to reach me:
 <p align="left">
