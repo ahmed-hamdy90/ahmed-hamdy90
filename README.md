@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I'am Ahmed Hamdy, Talented Software Engineer with 6+ years experience in analysis, design, development,testing and implementation of various web and mobile applications. Proficient in a variety of open source platforms, languages and tools.
+I am Ahmed Hamdy, an Enthusiastic Software Engineer with 10+ years of experience in the analysis, design, development, testing, and implementation of various web and mobile applications. I am proficient in a variety of open-source platforms, languages, and tools.
+
+Recently I have been working with Dotnet core, SQL Server, MongoDB, Redis, and Angular
 
 #### 🌱 I’m currently learning:
-learn new programing languages: `Golang` and `Scala`, also increase my experience on `Docker`, `Kubernetes`, `Distributed programming` and `Microservices`
+learn new programming languages: `Golang`, `Scala` and `Python`, also I have to increase my experience in `Docker`, `Kubernetes`, `Distributed programming`, `Microservices` and Past Practise Building `Software` in general.
 
 #### 👯 I’m looking to collaborate:
-I would like to collaborate on any open source project or library Using `Javascript`, `Typescript`, `PHP`, `C#` or `Java` Languages
+I would like to collaborate on any Open-Source project or library Using `Javascript`, `Typescript`, `PHP`, `C#` or `Java` Languages.
 
 #### 📫 How to reach me:
 <p align="left">
