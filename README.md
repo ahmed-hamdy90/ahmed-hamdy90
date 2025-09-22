@@ -1,18 +1,20 @@
 ## Hi there 👋
 
-I am Ahmed Hamdy, an Enthusiastic Software Engineer with 10+ years of experience in the analysis, design, development, testing, and implementation of various web and mobile applications. I am proficient in a variety of open-source platforms, languages, and tools.
+I'm Ahmed Hamdy, a Software Engineer driven by a passion for technology and a love for solving complex problems through code. With over 11 years of hands-on experience in the full software development lifecycle from analysis and design to development, testing, and implementation my expertise spans both web and mobile applications, with a strong focus on open-source platforms and tools.
 
-Recently I have been working with Dotnet core, SQL Server, MongoDB, Redis, and Angular
+My recent work has centered on architecting and developing robust solutions using **.NET Core/5+**, **SQL Server**, **MongoDB**, **Redis**, **Typescript**, and **Angular**.
 
-#### 🌱 I’m currently learning:
-learn new programming languages: `Golang`, `Scala` and `Python`, also I have to increase my experience in `Docker`, `Kubernetes`, `Distributed programming`, `Microservices` and Past Practise Building `Software` in general.
+#### 🌱 I'm currently expanding my knowledge in:
 
-#### 👯 I’m looking to collaborate:
-I would like to collaborate on any Open-Source project or library Using `Javascript`, `Typescript`, `PHP`, `C#` or `Java` Languages.
+* **Languages:** `Python`, `Golang`, and `Scala` 
+* **Architecture & DevOps:** `Docker`, `Kubernetes`, `Distributed Systems`, `Microservices` and `AWS` Services
+
+#### 👯 I'm open to collaborating on:
+
+Open-source projects or libraries that utilize **JavaScript**, **TypeScript**, **PHP**, **C#**, or **Java**.
 
 #### 📫 How to reach me:
-<p align="left">
-<a href="http://www.linkedin.com/in/ahmedhamdy90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmedhamdy90" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/1908296/ahmed-hamdy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ahmedhamdy90" height="20" width="20" /></a>
-<a href="mailto:ahmedhamdy20@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ahmedhamdy90" height="20" width="20" /></a>
-</p>
+
+* **Email:** <a href="mailto:ahmedhamdy20@gmail.com" target="_blank">ahmedhamdy20@gmail.com</a>
+* **LinkedIn:** <a href="http://www.linkedin.com/in/ahmedhamdy90" target="_blank">LinkedIn/ahmedhamdy90</a>
+* **StackOverflow:** <a href="https://stackoverflow.com/users/1908296/ahmed-hamdy" target="_blank">ahmedhamdy90</a>
