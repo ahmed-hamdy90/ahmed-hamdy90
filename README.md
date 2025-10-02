@@ -17,4 +17,4 @@ Open-source projects or libraries that utilize **JavaScript**, **TypeScript**, *
 
 * **Email:** <a href="mailto:ahmedhamdy20@gmail.com" target="_blank">ahmedhamdy20@gmail.com</a>
 * **LinkedIn:** <a href="http://www.linkedin.com/in/ahmedhamdy90" target="_blank">LinkedIn/ahmedhamdy90</a>
-* **StackOverflow:** <a href="https://stackoverflow.com/users/1908296/ahmed-hamdy" target="_blank">ahmedhamdy90</a>
+* **StackOverflow:** <a href="https://stackoverflow.com/users/1908296/ahmed-hamdy" target="_blank">ahmed-hamdy</a>
